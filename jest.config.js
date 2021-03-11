@@ -1,4 +1,4 @@
 module.exports = {
-  converageDirectory: 'converage',
+  coverageDirectory: 'coverage',
   testEnvironment: 'node'
 }
